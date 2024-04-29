@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Scott\\source\\repos\\Rubiks_Cube_Solver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE4AC8-C288-4E1C-87AC-6833D4906F59}|TestingRubiksCubeLibs\\TestingRubiksCubeLibs.pyproj|C:\\Users\\Scott\\source\\repos\\Rubiks_Cube_Solver\\TestingRubiksCubeLibs\\RubiksCubeTest.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{35AE4AC8-C288-4E1C-87AC-6833D4906F59}|TestingRubiksCubeLibs\\TestingRubiksCubeLibs.pyproj|solutionrelative:TestingRubiksCubeLibs\\RubiksCubeTest.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE4AC8-C288-4E1C-87AC-6833D4906F59}|TestingRubiksCubeLibs\\TestingRubiksCubeLibs.pyproj|C:\\Users\\Scott\\source\\repos\\Rubiks_Cube_Solver\\TestingRubiksCubeLibs\\TestingRubiksCubeLibs.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{35AE4AC8-C288-4E1C-87AC-6833D4906F59}|TestingRubiksCubeLibs\\TestingRubiksCubeLibs.pyproj|solutionrelative:TestingRubiksCubeLibs\\TestingRubiksCubeLibs.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE4AC8-C288-4E1C-87AC-6833D4906F59}|TestingRubiksCubeLibs\\TestingRubiksCubeLibs.pyproj|C:\\Users\\Scott\\source\\repos\\Rubiks_Cube_Solver\\TestingRubiksCubeLibs\\Flask\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35AE4AC8-C288-4E1C-87AC-6833D4906F59}|TestingRubiksCubeLibs\\TestingRubiksCubeLibs.pyproj|solutionrelative:TestingRubiksCubeLibs\\Flask\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AE4AC8-C288-4E1C-87AC-6833D4906F59}|TestingRubiksCubeLibs\\TestingRubiksCubeLibs.pyproj|C:\\Users\\Scott\\source\\repos\\Rubiks_Cube_Solver\\TestingRubiksCubeLibs\\Flask\\server.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{35AE4AC8-C288-4E1C-87AC-6833D4906F59}|TestingRubiksCubeLibs\\TestingRubiksCubeLibs.pyproj|solutionrelative:TestingRubiksCubeLibs\\Flask\\server.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RubiksCubeTest.py",
+              "DocumentMoniker": "C:\\Users\\Scott\\source\\repos\\Rubiks_Cube_Solver\\TestingRubiksCubeLibs\\RubiksCubeTest.py",
+              "RelativeDocumentMoniker": "TestingRubiksCubeLibs\\RubiksCubeTest.py",
+              "ToolTip": "C:\\Users\\Scott\\source\\repos\\Rubiks_Cube_Solver\\TestingRubiksCubeLibs\\RubiksCubeTest.py",
+              "RelativeToolTip": "TestingRubiksCubeLibs\\RubiksCubeTest.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-28T19:52:36.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Scott\\source\\repos\\Rubiks_Cube_Solver\\TestingRubiksCubeLibs\\Flask\\templates\\index.html",
+              "RelativeDocumentMoniker": "TestingRubiksCubeLibs\\Flask\\templates\\index.html",
+              "ToolTip": "C:\\Users\\Scott\\source\\repos\\Rubiks_Cube_Solver\\TestingRubiksCubeLibs\\Flask\\templates\\index.html",
+              "RelativeToolTip": "TestingRubiksCubeLibs\\Flask\\templates\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-28T21:00:59.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "server.py",
+              "DocumentMoniker": "C:\\Users\\Scott\\source\\repos\\Rubiks_Cube_Solver\\TestingRubiksCubeLibs\\Flask\\server.py",
+              "RelativeDocumentMoniker": "TestingRubiksCubeLibs\\Flask\\server.py",
+              "ToolTip": "C:\\Users\\Scott\\source\\repos\\Rubiks_Cube_Solver\\TestingRubiksCubeLibs\\Flask\\server.py",
+              "RelativeToolTip": "TestingRubiksCubeLibs\\Flask\\server.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-28T20:59:50.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestingRubiksCubeLibs.py",
+              "DocumentMoniker": "C:\\Users\\Scott\\source\\repos\\Rubiks_Cube_Solver\\TestingRubiksCubeLibs\\TestingRubiksCubeLibs.py",
+              "RelativeDocumentMoniker": "TestingRubiksCubeLibs\\TestingRubiksCubeLibs.py",
+              "ToolTip": "C:\\Users\\Scott\\source\\repos\\Rubiks_Cube_Solver\\TestingRubiksCubeLibs\\TestingRubiksCubeLibs.py",
+              "RelativeToolTip": "TestingRubiksCubeLibs\\TestingRubiksCubeLibs.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-07T16:46:17.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
