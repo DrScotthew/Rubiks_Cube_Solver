@@ -1,4 +1,5 @@
 from typing import Self
+from wsgiref.types import StartResponse
 import magiccube
 import sys
 import io
@@ -7,6 +8,7 @@ import random
 from magiccube.cube import Cube
 from magiccube.solver.basic.basic_solver import BasicSolver
 from numpy import char
+import time
 
 
 with open(r"C:\Users\Scott\Downloads\myFile.txt") as file:
@@ -19,7 +21,10 @@ cube = magiccube.Cube(
     3, userInputRead)   #assigns 3x3 rubiks cube using user input...
 print(cube)     #prints layout of cube based on user input given from HTML page...
 
+
+start = time.time()
 solver = BasicSolver(cube)
+pass
 solvedcube = solver.solve()     #assign variable for solving history...
 
 # Create the cube with a fixed state
@@ -65,6 +70,9 @@ for val in solvedcube:
     print(val)
     print(cube)
 
-# Print the cube
+# Print the cube    
 print("Solved Cube")
 print(cube)
+end = time.time()
+delta = end-start
+print("Total time taken:", delta)

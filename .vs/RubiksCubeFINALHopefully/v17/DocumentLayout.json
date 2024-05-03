@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{46D8FD36-EBD7-4590-8278-7D86B8BB7D74}|RubiksCubeFINALHopefully\\RubiksCubeFINALHopefully.csproj|solutionrelative:rubikscubefinalhopefully\\mainpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{46D8FD36-EBD7-4590-8278-7D86B8BB7D74}|RubiksCubeFINALHopefully\\RubiksCubeFINALHopefully.csproj|C:\\Users\\Scott\\source\\repos\\Rubiks_Cube_Solver\\rubikscubefinalhopefully\\cubewebsite.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46D8FD36-EBD7-4590-8278-7D86B8BB7D74}|RubiksCubeFINALHopefully\\RubiksCubeFINALHopefully.csproj|solutionrelative:rubikscubefinalhopefully\\cubewebsite.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{46D8FD36-EBD7-4590-8278-7D86B8BB7D74}|RubiksCubeFINALHopefully\\RubiksCubeFINALHopefully.csproj|C:\\Users\\Scott\\source\\repos\\Rubiks_Cube_Solver\\rubikscubefinalhopefully\\flask\\server.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{46D8FD36-EBD7-4590-8278-7D86B8BB7D74}|RubiksCubeFINALHopefully\\RubiksCubeFINALHopefully.csproj|solutionrelative:rubikscubefinalhopefully\\flask\\server.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -29,12 +33,20 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cubewebsite.html",
+              "DocumentMoniker": "C:\\Users\\Scott\\source\\repos\\Rubiks_Cube_Solver\\RubiksCubeFINALHopefully\\cubewebsite.html",
+              "RelativeDocumentMoniker": "RubiksCubeFINALHopefully\\cubewebsite.html",
+              "ToolTip": "C:\\Users\\Scott\\source\\repos\\Rubiks_Cube_Solver\\RubiksCubeFINALHopefully\\cubewebsite.html",
+              "RelativeToolTip": "RubiksCubeFINALHopefully\\cubewebsite.html",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAIEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-29T01:53:25.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Scott\\source\\repos\\Rubiks_Cube_Solver\\RubiksCubeFINALHopefully\\Flask\\templates\\index.html",
               "RelativeDocumentMoniker": "RubiksCubeFINALHopefully\\Flask\\templates\\index.html",
@@ -46,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "server.py",
               "DocumentMoniker": "C:\\Users\\Scott\\source\\repos\\Rubiks_Cube_Solver\\RubiksCubeFINALHopefully\\Flask\\server.py",
               "RelativeDocumentMoniker": "RubiksCubeFINALHopefully\\Flask\\server.py",

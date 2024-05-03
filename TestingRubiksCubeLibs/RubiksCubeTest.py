@@ -13,6 +13,7 @@ from pathlib import Path
 
 
 import os
+import time
 
 
 
@@ -98,12 +99,7 @@ question=input("What question do you want to ask the chatbot?\n")   #asks user q
 #=For each sentence in your reasoning, compare it to the previous sentence.  If there is a discontinuity in reasoning for the sentences, only print the new sentence and discard the previous one.
 #If the questions asks for an answer regarding the class meeting days or times, make sure to check if the file mentions the class being online or in-person.
 def queryFinal():
-    query3 = f"""Solve the Rubiks cube from the cube notation that the user provides.
-
-    Files:
-    \"\"\"
-    {getText3(), getText2(), getText(), getTableText(), getTableText2(), getTableText3()}     
-    \"\"\"
+    query3 = f"""Solve the Rubiks cube from the cube notation that the user provides.  In order to solve the cube, you must perform certain moves to make the cube notation turn into YYYYYYYYYRRRRRRRRRGGGGGGGGGOOOOOOOOOBBBBBBBBBWWWWWWWWW.
 
     Question: {question}"""     #this version 'query3' works best when taking text from .docx files with tables contained...'getTableText' helps, but query3 contains specific wording on displaying the information the bot retrieves...
 
@@ -120,6 +116,11 @@ def queryFinal():
 
     
 while question != 'exit':   #loops so user can ask different questions...
+    start = time.time()
     queryFinal()    #if != 'exit' then will go through chatbot...
+    pass
+    end = time.time()
+    delta = end - start
+    print("Total time taken to solve:", delta)
     question=""
     question=input("What question do you want to ask the chatbot?\n")   #asks user again for question...

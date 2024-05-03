@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>35ae4ac8-c288-4e1c-87ac-6833d4906f59</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>RubiksCubeTest.py</StartupFile>
+    <StartupFile>TestingRubiksCubeLibs.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
